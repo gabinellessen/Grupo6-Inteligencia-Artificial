@@ -7,7 +7,7 @@ Professor: Prof. Dr. Ivan Carlos Alcântara de Oliveira
 | Integrante | RA | E-mail |
 |---|---|---|
 | Cheuk Ki Yu | 10419664 | cheuk.yu@mackenzista.com.br |
-| Gabriela Nellessen de Sousa | 10441930 | [e-mail a preencher] |
+| Gabriela Nellessen de Sousa | 10441930 | gabrielanellessen@gmail.com |
 | Milton Almeida Leoncio | 10416764 | milton.almeida@live.com |
 
 - **Repositório:** <https://github.com/gabinellessen/Grupo6-Inteligencia-Artificial>
