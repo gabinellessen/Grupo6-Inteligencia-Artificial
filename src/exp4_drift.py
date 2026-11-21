@@ -1,12 +1,12 @@
 """
-Projeto: Detecção de fraudes em transações financeiras com aprendizado supervisionado
+Projeto: Agente Identificador de Fraudes Bancárias
 Disciplina: Inteligência Artificial - 7º semestre - Ciência da Computação
 Universidade Presbiteriana Mackenzie - Faculdade de Computação e Informática (FCI)
 Professor: Prof. Dr. Ivan Carlos Alcântara de Oliveira
 
 Integrantes:
     Cheuk Ki Yu                  - RA 10419664 - cheuk.yu@mackenzista.com.br
-    Gabriela Nellessen de Sousa  - RA 10441930 - [e-mail a preencher]
+    Gabriela Nellessen de Sousa  - RA 10441930 - gabrielanellessen@gmail.com
     Milton Almeida Leoncio       - RA 10416764 - milton.almeida@live.com
 
 Arquivo: src/exp4_drift.py

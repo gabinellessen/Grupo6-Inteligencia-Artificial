@@ -1,12 +1,12 @@
 """
-Projeto: Detecção de fraudes em transações financeiras com aprendizado supervisionado
+Projeto: Agente Identificador de Fraudes Bancárias
 Disciplina: Inteligência Artificial - 7º semestre - Ciência da Computação
 Universidade Presbiteriana Mackenzie - Faculdade de Computação e Informática (FCI)
 Professor: Prof. Dr. Ivan Carlos Alcântara de Oliveira
 
 Integrantes:
     Cheuk Ki Yu                  - RA 10419664 - cheuk.yu@mackenzista.com.br
-    Gabriela Nellessen de Sousa  - RA 10441930 - [e-mail a preencher]
+    Gabriela Nellessen de Sousa  - RA 10441930 - gabrielanellessen@gmail.com
     Milton Almeida Leoncio       - RA 10416764 - milton.almeida@live.com
 
 Arquivo: artigo/texto_fixo.py
@@ -19,17 +19,16 @@ Histórico de alterações:
     2026-11-20 - Milton Almeida Leoncio - Versão inicial (N2).
 """
 
-TITULO = ("Aplicação de Técnicas de Machine Learning para Detecção de Fraudes em Transações "
-          "Financeiras Utilizando Modelos Supervisionados")
+TITULO = "Agente Identificador de Fraudes Bancárias"
 AUTORES = ("Cheuk Ki Yu (RA 10419664), Gabriela Nellessen de Sousa (RA 10441930), "
            "Milton Almeida Leoncio (RA 10416764)")
 ENDERECO = ["Faculdade de Computação e Informática – Universidade Presbiteriana Mackenzie",
             "Rua da Consolação, 930 – 01302-907 – São Paulo – SP – Brasil",
             "Inteligência Artificial – Prof. Dr. Ivan Carlos Alcântara de Oliveira"]
-EMAILS = "cheuk.yu@mackenzista.com.br, [e-mail a preencher], milton.almeida@live.com"
+EMAILS = "cheuk.yu@mackenzista.com.br, gabrielanellessen@gmail.com, milton.almeida@live.com"
 
 GITHUB = "https://github.com/gabinellessen/Grupo6-Inteligencia-Artificial"
-VIDEO = "[endereço do vídeo no YouTube a preencher]"
+VIDEO = "https://youtu.be/Ve9pj3yQw5M"
 
 CONTEXTUALIZACAO = [
     "A digitalização dos serviços bancários e a popularização dos pagamentos eletrônicos aumentaram o volume "

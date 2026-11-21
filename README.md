@@ -1,4 +1,4 @@
-# Detecção de fraudes em transações financeiras com aprendizado supervisionado
+# Agente Identificador de Fraudes Bancárias
 
 Projeto da disciplina **Inteligência Artificial** – 7º semestre de Ciência da Computação
 Universidade Presbiteriana Mackenzie – Faculdade de Computação e Informática (FCI)
@@ -12,7 +12,7 @@ Professor: Prof. Dr. Ivan Carlos Alcântara de Oliveira
 
 - **Repositório:** <https://github.com/gabinellessen/Grupo6-Inteligencia-Artificial>
 - **Artigo final (template SBC):** [`artigo/Artigo_Final_IA_Fraudes.pdf`](artigo/Artigo_Final_IA_Fraudes.pdf)
-- **Vídeo de apresentação:** [https://youtu.be/Ve9pj3yQw5M]
+- **Vídeo de apresentação:** <https://youtu.be/Ve9pj3yQw5M>
 - **ODS:** 16 (meta 16.4 – fluxos financeiros ilícitos), 8 (meta 8.10 – instituições financeiras) e 9 (inovação)
 
 ## O problema
