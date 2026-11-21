@@ -1,0 +1,7 @@
+modelo,atributo,dif_recall_max_min,fpr_10k_min,fpr_10k_max,dif_fpr_10k_max_min,razao_fpr_max_min
+Com atributos sensíveis,Faixa etária,0.136694,3.310000,4.270000,0.960000,1.290030
+Com atributos sensíveis,Gênero,0.020991,3.190000,4.710000,1.520000,1.476489
+Com atributos sensíveis,Quartil de renda,0.376518,3.440000,4.810000,1.370000,1.398256
+Sem atributos sensíveis,Faixa etária,0.063156,2.590000,3.680000,1.090000,1.420849
+Sem atributos sensíveis,Gênero,0.009802,2.510000,4.010000,1.500000,1.597610
+Sem atributos sensíveis,Quartil de renda,0.167373,2.080000,4.140000,2.060000,1.990385

@@ -1,0 +1,3 @@
+modelo,atributo,dif_recall_max_min,fpr_10k_min,fpr_10k_max,dif_fpr_10k_max_min,razao_fpr_max_min
+Com atributos sensíveis,Faixa etária,0.333333,0.000000,6.530000,6.530000,
+Sem atributos sensíveis,Faixa etária,0.340517,0.000000,4.350000,4.350000,

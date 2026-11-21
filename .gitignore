@@ -1,0 +1,13 @@
+# bases brutas e atributos gerados (grandes; ver dados/README.md)
+dados/*.csv
+dados/ibm/
+atributos/
+*.parquet
+!dados/amostra_*.parquet
+
+# ambiente e caches
+.venv/
+venv*/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

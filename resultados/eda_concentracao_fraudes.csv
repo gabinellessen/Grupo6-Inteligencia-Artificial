@@ -1,0 +1,7 @@
+base,periodo,fraudes,titulares_ativos,titulares_com_fraude,fraudes_por_titular_mediana,duracao_surto_dias_mediana,titulares_com_fraude_tambem_no_treino
+Base A - IBM,treino,2036,4072,223,9.0,12.0,
+Base A - IBM,validacao,710,3909,91,8.0,8.0,19.0
+Base A - IBM,teste,2087,4029,244,9.0,11.0,11.0
+Base B - Sparkov,treino,1408,183,143,10.0,1.0,
+Base B - Sparkov,validacao,203,170,24,9.0,1.0,1.0
+Base B - Sparkov,teste,171,172,16,9.5,1.0,0.0

@@ -1,0 +1,15 @@
+,media_abs_contribuicao,metodo
+valor,0.827371,TreeSHAP
+valor_24h,0.719042,TreeSHAP
+hora,0.572675,TreeSHAP
+categoria,0.474527,TreeSHAP
+n_trans_24h,0.469154,TreeSHAP
+seg_desde_ultima,0.418708,TreeSHAP
+idade,0.291698,TreeSHAP
+valor_sobre_media_hist,0.247017,TreeSHAP
+log_pop_cidade,0.233674,TreeSHAP
+dia_semana,0.130335,TreeSHAP
+dist_comerciante_km,0.088694,TreeSHAP
+estado,0.085951,TreeSHAP
+novo_comerciante,0.068457,TreeSHAP
+novo_categoria_hist,0.010351,TreeSHAP

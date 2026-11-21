@@ -1,0 +1,21 @@
+atributo,grupo,n,fraudes,recall,fpr,precision,alertas_10k,modelo
+Faixa etária,30-44,516869,505,0.639604,0.000368,0.629630,9.925145,Sem atributos sensíveis
+Faixa etária,45-59,600197,667,0.688156,0.000259,0.747557,10.229974,Sem atributos sensíveis
+Faixa etária,60 ou mais,497977,875,0.677714,0.000362,0.767141,15.522805,Sem atributos sensíveis
+Faixa etária,< 30,108895,40,0.625000,0.000367,0.384615,5.969053,Sem atributos sensíveis
+Gênero,Feminino,888899,1100,0.675455,0.000401,0.676069,12.363609,Sem atributos sensíveis
+Gênero,Masculino,835039,987,0.665653,0.000251,0.758661,10.370773,Sem atributos sensíveis
+Quartil de renda,Q1 (menor),401789,564,0.714539,0.000341,0.746296,13.439890,Sem atributos sensíveis
+Quartil de renda,Q2,404263,481,0.704782,0.000208,0.801418,10.463485,Sem atributos sensíveis
+Quartil de renda,Q3,440947,509,0.717092,0.000334,0.712891,11.611373,Sem atributos sensíveis
+Quartil de renda,Q4 (maior),476939,533,0.549719,0.000414,0.597959,10.273851,Sem atributos sensíveis
+Faixa etária,30-44,516869,505,0.522772,0.000389,0.567742,8.996477,Com atributos sensíveis
+Faixa etária,45-59,600197,667,0.611694,0.000427,0.614458,11.063034,Com atributos sensíveis
+Faixa etária,60 ou mais,497977,875,0.600000,0.000384,0.733240,14.378174,Com atributos sensíveis
+Faixa etária,< 30,108895,40,0.475000,0.000331,0.345455,5.050737,Com atributos sensíveis
+Gênero,Feminino,888899,1100,0.572727,0.000471,0.601145,11.789866,Com atributos sensíveis
+Gênero,Masculino,835039,987,0.593718,0.000319,0.687793,10.203116,Com atributos sensíveis
+Quartil de renda,Q1 (menor),401789,564,0.719858,0.000481,0.677796,14.908323,Com atributos sensíveis
+Quartil de renda,Q2,404263,481,0.625780,0.000347,0.682540,10.908740,Com atributos sensíveis
+Quartil de renda,Q3,440947,509,0.640472,0.000425,0.635478,11.634051,Com atributos sensíveis
+Quartil de renda,Q4 (maior),476939,533,0.343340,0.000344,0.527378,7.275564,Com atributos sensíveis

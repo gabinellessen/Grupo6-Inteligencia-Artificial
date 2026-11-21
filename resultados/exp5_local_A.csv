@@ -1,0 +1,17 @@
+tipo,escore,atributo,rotulo,valor,contribuicao
+Fraude detectada,0.999990,exterior,compra no exterior,sim,10.533056
+Fraude detectada,0.999990,estado_diferente,estado ≠ do titular,sim,10.091068
+Fraude detectada,0.999990,hora,hora do dia,19h,3.086478
+Fraude detectada,0.999990,valor,valor,"US$ 0,13",2.051451
+Fraude detectada,0.999990,dia_semana,dia da semana,4,0.974202
+Fraude detectada,0.999990,frac_online_hist,fração histórica online,"0,06",0.917658
+Fraude detectada,0.999990,frac_exterior_hist,fração histórica no exterior,"0,00",0.835593
+Fraude detectada,0.999990,valor_sobre_media_hist,valor / média histórica,"0,00",0.789467
+Falso alarme,0.999726,exterior,compra no exterior,sim,10.676932
+Falso alarme,0.999726,estado_diferente,estado ≠ do titular,sim,9.751044
+Falso alarme,0.999726,hora,hora do dia,11h,1.889799
+Falso alarme,0.999726,valor,valor,"US$ 0,68",1.108511
+Falso alarme,0.999726,novo_cidade_hist,1ª compra na cidade,sim,-0.888486
+Falso alarme,0.999726,novo_comerciante,1º uso do comerciante,sim,0.850882
+Falso alarme,0.999726,valor_sobre_media_hist,valor / média histórica,"0,02",0.838488
+Falso alarme,0.999726,novo_estado_hist,1ª compra no estado,sim,0.835806

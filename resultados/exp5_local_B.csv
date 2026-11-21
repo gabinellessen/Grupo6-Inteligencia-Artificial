@@ -1,0 +1,17 @@
+tipo,escore,atributo,rotulo,valor,contribuicao
+Fraude detectada,0.999890,valor,valor,"US$ 824,10",8.160579
+Fraude detectada,0.999890,valor_24h,soma dos valores em 24h,"US$ 3.049,23",7.098497
+Fraude detectada,0.999890,hora,hora do dia,22h,3.132864
+Fraude detectada,0.999890,idade,idade do titular,69 anos,0.823440
+Fraude detectada,0.999890,seg_desde_ultima,tempo desde a última transação,"0,3 h",0.660176
+Fraude detectada,0.999890,valor_sobre_media_hist,valor / média histórica,"13,55",0.536216
+Fraude detectada,0.999890,log_pop_cidade,população da cidade (log),"7,04",0.534604
+Fraude detectada,0.999890,n_trans_24h,nº de transações em 24h,4,0.089263
+Falso alarme,0.990309,valor,valor,"US$ 702,87",8.856845
+Falso alarme,0.990309,valor_24h,soma dos valores em 24h,"US$ 1.428,12",4.319531
+Falso alarme,0.990309,hora,hora do dia,22h,1.339691
+Falso alarme,0.990309,n_trans_24h,nº de transações em 24h,2,1.247398
+Falso alarme,0.990309,log_pop_cidade,população da cidade (log),"7,41",0.887021
+Falso alarme,0.990309,valor_sobre_media_hist,valor / média histórica,"12,46",0.703432
+Falso alarme,0.990309,idade,idade do titular,34 anos,-0.388623
+Falso alarme,0.990309,categoria,categoria do comércio,compras (online),-0.200782
